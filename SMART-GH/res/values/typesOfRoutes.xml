@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="typesOfRoutes">
-        <item>Fastest Route</item>
-        <item>Least Noise Pollution</item>
-        <item>Least Air Pollution</item>
-    </string-array>
-</resources>
