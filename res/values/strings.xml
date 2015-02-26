@@ -4,9 +4,10 @@
     <string name="app_name">SMART-GH</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="appName">Smart Graphhopper</string>
-    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="to">To</string>
-    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="from">From</string>
-    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="search">Search</string>
+    <string android:id="@+id/string1" name="appName" android:layout_width="wrap_content" android:layout_height="wrap_content">Smart Graphhopper</string>
+    <string android:id="@+id/string1" name="to" android:layout_width="wrap_content" android:layout_height="wrap_content">To</string>
+    <string android:id="@+id/string1" name="from" android:layout_width="wrap_content" android:layout_height="wrap_content">From</string>
+    <string android:id="@+id/string1" name="search" android:layout_width="wrap_content" android:layout_height="wrap_content">Search</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
 
 </resources>
