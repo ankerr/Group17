@@ -1,5 +1,13 @@
 package com.group17.smart_gh;
 import org.json.*;
+
+/*
+ * When JSON String is passed in as it is sent from the GET request,
+ * the JSONParser has a shitfit on the points:"..." object due to random
+ * characters in the encoded string. Need to fix this
+ * 
+ * 
+ */
  
 public class routeParser {
     private JSONObject routeString;
